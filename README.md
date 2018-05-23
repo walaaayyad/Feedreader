@@ -25,4 +25,4 @@ This test includes the following:
 4. The menu is it hidden by default
 5. The menu changes visibility
 6. Initial Entries entry not empty
-7. New Feed Selection SPEC HAS NO EXPECTATIONS new feed is different from old feed
+7. New Feed Selection is different from old feed
